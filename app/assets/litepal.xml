@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="mapmanager" />
+
+    <!--数据库版本号，用于更新数据库-->
+    <version value="1" />
+
+    <list>
+        <mapping class="com.zt.cad.linemanager.entity.db.SysProjectEntity" />
+
+    </list>
+
+</litepal>
