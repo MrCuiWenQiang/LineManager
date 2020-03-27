@@ -57,8 +57,8 @@
         <item name="android:paddingBottom">13dp</item>
     </style>
     <style name="edit_view_edit" parent="base_edit_value">
-            <item name="android:background">@drawable/edit_style</item>
-            <item name="android:textSize">18sp</item>
+        <item name="android:background">@drawable/edit_style</item>
+        <item name="android:textSize">18sp</item>
     </style>
 
     <style name="base_edit_value">
