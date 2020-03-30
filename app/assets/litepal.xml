@@ -8,6 +8,8 @@
     <list>
         <mapping class="com.zt.cad.linemanager.entity.db.SysProjectEntity" />
 
+        <mapping class="com.zt.cad.linemanager.entity.db.tab.TabLineEntity" />
+        <mapping class="com.zt.cad.linemanager.entity.db.tab.TabPointEntity" />
     </list>
 
 </litepal>
